@@ -1,0 +1,16 @@
+com\themis\metadata\storage\impl\RedisMetadataStorage.class
+com\themis\metadata\storage\StorageConfiguration.class
+com\themis\metadata\storage\impl\InMemoryMetadataStorage.class
+com\themis\metadata\storage\MetadataQuery$SortCriteria.class
+com\themis\metadata\storage\MetadataQuery$Builder.class
+com\themis\metadata\storage\StorageConfiguration$StorageType.class
+com\themis\metadata\storage\StorageConfiguration$Builder.class
+com\themis\metadata\storage\impl\DatabaseMetadataStorage.class
+com\themis\metadata\storage\impl\DatabaseMetadataStorage$1.class
+com\themis\metadata\storage\MetadataQuery$SortDirection.class
+com\themis\metadata\storage\MetadataStorageException$StorageErrorCode.class
+com\themis\metadata\storage\MetadataQuery.class
+com\themis\metadata\storage\MetadataStorageException.class
+com\themis\metadata\storage\MetadataStorage.class
+com\themis\metadata\storage\StorageConfiguration$1.class
+com\themis\metadata\storage\impl\DatabaseMetadataStorage$RuleDefinitionRowMapper.class

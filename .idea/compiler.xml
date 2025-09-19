@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="themis-ai" />
+        <module name="themis-app" />
+        <module name="themis-api" />
+        <module name="themis-engine" />
+        <module name="themis-orchestration" />
+        <module name="themis-core" />
+        <module name="themis-metadata" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
