@@ -1,7 +1,0 @@
-D:\github\themis\themis-metadata\src\main\java\com\themis\metadata\storage\impl\RedisMetadataStorage.java
-D:\github\themis\themis-metadata\src\main\java\com\themis\metadata\storage\StorageConfiguration.java
-D:\github\themis\themis-metadata\src\main\java\com\themis\metadata\storage\MetadataStorage.java
-D:\github\themis\themis-metadata\src\main\java\com\themis\metadata\storage\MetadataStorageException.java
-D:\github\themis\themis-metadata\src\main\java\com\themis\metadata\storage\MetadataQuery.java
-D:\github\themis\themis-metadata\src\main\java\com\themis\metadata\storage\impl\DatabaseMetadataStorage.java
-D:\github\themis\themis-metadata\src\main\java\com\themis\metadata\storage\impl\InMemoryMetadataStorage.java
