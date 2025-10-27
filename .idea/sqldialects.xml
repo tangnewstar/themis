@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/themis-metadata/src/main/java/com/themis/metadata/storage/impl/DatabaseMetadataStorage.java" dialect="GenericSQL" />
-  </component>
-</project>
