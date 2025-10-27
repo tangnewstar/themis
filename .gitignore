@@ -1,4 +1,10 @@
 .idea
 /themis-ai/target/
 
+# ignore idea
+/.idea
 /*/target
+
+# ingore .iml
+/*.iml
+/*/*.iml
