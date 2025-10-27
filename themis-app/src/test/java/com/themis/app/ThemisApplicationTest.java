@@ -1,6 +1,6 @@
 package com.themis.app;
 
-import com.themis.engine.RuleEngine;
+import com.themis.core.engine.RuleEngine;
 import com.themis.metadata.storage.MetadataStorage;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
