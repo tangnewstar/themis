@@ -110,5 +110,12 @@
             <artifactId>spring-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.assertj</groupId>
+            <artifactId>assertj-core</artifactId>
+            <!-- 建议使用最新稳定版本，可到Maven中央仓库查询最新版本 -->
+            <version>3.24.2</version>
+            <scope>test</scope> <!-- 通常用于测试代码，所以scope设为test -->
+        </dependency>
     </dependencies>
 </project>
