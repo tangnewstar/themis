@@ -1,5 +1,0 @@
-com\themis\ai\service\AIRuleService.class
-com\themis\ai\translator\impl\DefaultNaturalLanguageTranslator.class
-com\themis\ai\translator\NaturalLanguageTranslator$TranslationValidationResult.class
-com\themis\ai\translator\NaturalLanguageTranslator.class
-com\themis\ai\translator\impl\DefaultNaturalLanguageTranslator$RulePattern.class
