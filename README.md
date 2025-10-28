@@ -22,7 +22,7 @@ Themis是一个高性能、可扩展的企业级规则引擎平台,支持风控�
 
 ### 环境要求
 
-- JDK 11+
+- JDK 8+
 - Maven 3.6+
 - Redis (可选)
 - MySQL (可选)
@@ -30,7 +30,7 @@ Themis是一个高性能、可扩展的企业级规则引擎平台,支持风控�
 ### 安装
 
 ```bash
-git clone https://github.com/yourorg/themis.git
+git clone https://github.com/tangscode/themis.git
 cd themis
 mvn clean install
 ```
@@ -237,9 +237,9 @@ Apache License 2.0
 
 ## 联系方式
 
-- 项目主页: https://github.com/yourorg/themis
-- 问题反馈: https://github.com/yourorg/themis/issues
-- 邮件: themis-dev@example.com
+- 项目主页: https://github.com/tangscode/themis
+- 问题反馈: https://github.com/tangscode/themis/issues
+- 邮件: tangscode@163.com
 
 ---
 
