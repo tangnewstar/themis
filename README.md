@@ -235,12 +235,6 @@ DAGExecutionResult result = engine.execute(workflow, context);
 
 Apache License 2.0
 
-## 联系方式
-
-- 项目主页: https://github.com/tangscode/themis
-- 问题反馈: https://github.com/tangscode/themis/issues
-- 邮件: tangscode@163.com
-
 ---
 
 **Themis Rule Engine** - 让规则决策更智能
